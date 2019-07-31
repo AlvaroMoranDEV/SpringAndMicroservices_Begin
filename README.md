@@ -7,8 +7,8 @@
 # Contents
 
 ## Basics
-* [Basic Spring lessons on tutorialspoint](https://www.tutorialspoint.com/spring/index.htm)
-* [Spring Introduction in JTech](http://www.jtech.ua.es/j2ee/publico/spring-2012-13/sesion01-apuntes.html)
+* [Basic Spring lessons - TutorialsPoint](https://www.tutorialspoint.com/spring/index.htm)
+* [Spring Introduction - JTech](http://www.jtech.ua.es/j2ee/publico/spring-2012-13/sesion01-apuntes.html)
 
 ## Spring Boot
 * [Spring boot basics by in28minutes](https://in28minutes1.teachable.com/p/spring-boot-for-beginners-in-10-steps)
